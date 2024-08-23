@@ -7,7 +7,7 @@ The goal of this project is to develop a multilingual conversational AI chatbot 
 2. Sentiment Analysis: Implement sentiment analysis to gauge the emotional tone of user inputs, allowing the chatbot to respond appropriately.
 3. Real-Time Language Translation: Integrate a real-time translation service so users can interact in their native language, regardless of the chatbot's original language capabilities.
 4. Speech-to-Text and Text-to-Speech: Enable voice-based interactions with the chatbot, converting spoken language to text and generating spoken responses.
-Scalable and User-Friendly Interface: Design a web-based interface where users can interact with the chatbot via text or voice in multiple languages.
+5. Scalable and User-Friendly Interface: Design a web-based interface where users can interact with the chatbot via text or voice in multiple languages.
 
 
 ### Implementation Details
